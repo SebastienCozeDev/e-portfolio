@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PHP on Sebastien COZE</title>
-    <link>https://sebastiencozedev.github.io/portfolio/categories/php/</link>
+    <link>https://sebastiencozedev.github.io/e-portfolio/categories/php/</link>
     <description>Recent content in PHP on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 10 Oct 2022 09:06:32 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/portfolio/categories/php/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 09:06:32 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Manager</title>
-      <link>https://sebastiencozedev.github.io/portfolio/projets/contact-manager/</link>
+      <link>https://sebastiencozedev.github.io/e-portfolio/projets/contact-manager/</link>
       <pubDate>Mon, 10 Oct 2022 09:06:32 +0200</pubDate>
       
-      <guid>https://sebastiencozedev.github.io/portfolio/projets/contact-manager/</guid>
+      <guid>https://sebastiencozedev.github.io/e-portfolio/projets/contact-manager/</guid>
       <description></description>
     </item>
     
