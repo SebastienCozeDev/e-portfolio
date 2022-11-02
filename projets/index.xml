@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on Sebastien COZE</title>
+    <link>https://sebastien-coze.ovh/projets/</link>
+    <description>Recent content in Projets on Sebastien COZE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 02 Nov 2022 09:06:32 +0200</lastBuildDate><atom:link href="https://sebastien-coze.ovh/projets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon portfolio</title>
+      <link>https://sebastien-coze.ovh/projets/mon-portfolio/</link>
+      <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
+      
+      <guid>https://sebastien-coze.ovh/projets/mon-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact Manager</title>
+      <link>https://sebastien-coze.ovh/projets/contact-manager/</link>
+      <pubDate>Mon, 10 Oct 2022 09:06:32 +0200</pubDate>
+      
+      <guid>https://sebastien-coze.ovh/projets/contact-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laboratoire de recherche</title>
+      <link>https://sebastien-coze.ovh/projets/laboratoire-de-recherche/</link>
+      <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
+      
+      <guid>https://sebastien-coze.ovh/projets/laboratoire-de-recherche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le Juste Prix</title>
+      <link>https://sebastien-coze.ovh/projets/juste-prix/</link>
+      <pubDate>Sun, 22 May 2022 17:48:40 +0200</pubDate>
+      
+      <guid>https://sebastien-coze.ovh/projets/juste-prix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thunder Travel</title>
+      <link>https://sebastien-coze.ovh/projets/thunder-travel/</link>
+      <pubDate>Thu, 13 Jan 2022 09:06:32 +0200</pubDate>
+      
+      <guid>https://sebastien-coze.ovh/projets/thunder-travel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

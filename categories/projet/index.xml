@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projet on Sebastien COZE</title>
+    <link>https://sebastien-coze.github.io/portfolio/categories/projet/</link>
+    <description>Recent content in Projet on Sebastien COZE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 30 Aug 2022 09:06:32 +0200</lastBuildDate><atom:link href="https://sebastien-coze.github.io/portfolio/categories/projet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon portfolio</title>
+      <link>https://sebastien-coze.github.io/portfolio/projets/mon-portfolio/</link>
+      <pubDate>Tue, 30 Aug 2022 09:06:32 +0200</pubDate>
+      
+      <guid>https://sebastien-coze.github.io/portfolio/projets/mon-portfolio/</guid>
+      <description>Ceci est un titre qsdfgh sdfghjk sdfghjk dfgh
+soustirdcfvb gfghjk jjhg</description>
+    </item>
+    
+    <item>
+      <title>Thunder Travel</title>
+      <link>https://sebastien-coze.github.io/portfolio/projets/thunder-travel/</link>
+      <pubDate>Thu, 13 Jan 2022 09:06:32 +0200</pubDate>
+      
+      <guid>https://sebastien-coze.github.io/portfolio/projets/thunder-travel/</guid>
+      <description>Présentation du projet Ce projet consistait en la création d&amp;rsquo;une entreprise dans l&amp;rsquo;événementiel. Nous étions trois pour imaginer l&amp;rsquo;entreprise et concevoir le site web de présentation. Nous avions aussi dû faire une charte graphique et une charte éditoriale. Pour ma part, je me suis plus penché sur la conception de la charte éditoriale et du site web.
+ Ce que ce projet m&amp;rsquo;a apporté Grâce à ce projet, j&amp;rsquo;ai pu consolider mes connaissances en HTML et en CSS.</description>
+    </item>
+    
+  </channel>
+</rss>

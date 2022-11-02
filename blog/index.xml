@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Sebastien COZE</title>
+    <link>https://sebastien-coze.github.io/portfolio/blog/</link>
+    <description>Recent content in Blogs on Sebastien COZE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 25 Apr 2022 09:55:19 +0200</lastBuildDate><atom:link href="https://sebastien-coze.github.io/portfolio/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon Second Article</title>
+      <link>https://sebastien-coze.github.io/portfolio/blog/mon-second-article/</link>
+      <pubDate>Mon, 25 Apr 2022 09:55:19 +0200</pubDate>
+      
+      <guid>https://sebastien-coze.github.io/portfolio/blog/mon-second-article/</guid>
+      <description>Ceci est un H1 Ceci est un H2 Ceci est un texte et ce mot est en gras.
+Ceci est un second H2 Ceci est un texte simple.
+| Col 1 | Col 2|</description>
+    </item>
+    
+    <item>
+      <title>Mon Premier Article</title>
+      <link>https://sebastien-coze.github.io/portfolio/blog/mon-premier-article/</link>
+      <pubDate>Mon, 25 Apr 2022 09:50:33 +0200</pubDate>
+      
+      <guid>https://sebastien-coze.github.io/portfolio/blog/mon-premier-article/</guid>
+      <description>Bonjour, ceci est mon premier article !</description>
+    </item>
+    
+  </channel>
+</rss>
