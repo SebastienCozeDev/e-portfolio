@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Sebastien COZE</title>
-    <link>https://sebastien-coze.ovh/categories/python/</link>
+    <link>https://sebastiencozedev.github.io/portfolio/categories/python/</link>
     <description>Recent content in Python on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 25 Jun 2022 20:22:51 +0200</lastBuildDate><atom:link href="https://sebastien-coze.ovh/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jun 2022 20:22:51 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/portfolio/categories/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Laboratoire de recherche</title>
-      <link>https://sebastien-coze.ovh/projets/laboratoire-de-recherche/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/projets/laboratoire-de-recherche/</link>
       <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/projets/laboratoire-de-recherche/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/projets/laboratoire-de-recherche/</guid>
       <description></description>
     </item>
     

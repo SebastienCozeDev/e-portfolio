@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JavaScript on Sebastien COZE</title>
-    <link>https://sebastien-coze.ovh/categories/javascript/</link>
+    <link>https://sebastiencozedev.github.io/portfolio/categories/javascript/</link>
     <description>Recent content in JavaScript on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 02 Nov 2022 09:06:32 +0200</lastBuildDate><atom:link href="https://sebastien-coze.ovh/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 09:06:32 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/portfolio/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mon portfolio</title>
-      <link>https://sebastien-coze.ovh/projets/mon-portfolio/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/projets/mon-portfolio/</link>
       <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/projets/mon-portfolio/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/projets/mon-portfolio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact Manager</title>
-      <link>https://sebastien-coze.ovh/projets/contact-manager/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/projets/contact-manager/</link>
       <pubDate>Mon, 10 Oct 2022 09:06:32 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/projets/contact-manager/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/projets/contact-manager/</guid>
       <description></description>
     </item>
     

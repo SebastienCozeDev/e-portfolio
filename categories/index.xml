@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sebastien COZE</title>
-    <link>https://sebastien-coze.ovh/categories/</link>
+    <link>https://sebastiencozedev.github.io/portfolio/categories/</link>
     <description>Recent content in Categories on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 02 Nov 2022 09:06:32 +0200</lastBuildDate><atom:link href="https://sebastien-coze.ovh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 09:06:32 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bulma</title>
-      <link>https://sebastien-coze.ovh/categories/bulma/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/bulma/</link>
       <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/bulma/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/bulma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Développement web</title>
-      <link>https://sebastien-coze.ovh/categories/d%C3%A9veloppement-web/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/d%C3%A9veloppement-web/</link>
       <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/d%C3%A9veloppement-web/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/d%C3%A9veloppement-web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://sebastien-coze.ovh/categories/git/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/git/</link>
       <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/git/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://sebastien-coze.ovh/categories/hugo/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/hugo/</link>
       <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/hugo/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://sebastien-coze.ovh/categories/javascript/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/javascript/</link>
       <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/javascript/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projet personnel</title>
-      <link>https://sebastien-coze.ovh/categories/projet-personnel/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/projet-personnel/</link>
       <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/projet-personnel/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/projet-personnel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PHP</title>
-      <link>https://sebastien-coze.ovh/categories/php/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/php/</link>
       <pubDate>Mon, 10 Oct 2022 09:06:32 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/php/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PostgreSQL</title>
-      <link>https://sebastien-coze.ovh/categories/postgresql/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/postgresql/</link>
       <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/postgresql/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/postgresql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projet d&#39;étude</title>
-      <link>https://sebastien-coze.ovh/categories/projet-d%C3%A9tude/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/projet-d%C3%A9tude/</link>
       <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/projet-d%C3%A9tude/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/projet-d%C3%A9tude/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://sebastien-coze.ovh/categories/python/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/python/</link>
       <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/python/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://sebastien-coze.ovh/categories/java/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/java/</link>
       <pubDate>Sun, 22 May 2022 17:48:40 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/java/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaFx</title>
-      <link>https://sebastien-coze.ovh/categories/javafx/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/categories/javafx/</link>
       <pubDate>Sun, 22 May 2022 17:48:40 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/categories/javafx/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/categories/javafx/</guid>
       <description></description>
     </item>
     

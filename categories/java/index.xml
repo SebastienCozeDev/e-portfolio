@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Sebastien COZE</title>
-    <link>https://sebastien-coze.ovh/categories/java/</link>
+    <link>https://sebastiencozedev.github.io/portfolio/categories/java/</link>
     <description>Recent content in Java on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 22 May 2022 17:48:40 +0200</lastBuildDate><atom:link href="https://sebastien-coze.ovh/categories/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 17:48:40 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/portfolio/categories/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le Juste Prix</title>
-      <link>https://sebastien-coze.ovh/projets/juste-prix/</link>
+      <link>https://sebastiencozedev.github.io/portfolio/projets/juste-prix/</link>
       <pubDate>Sun, 22 May 2022 17:48:40 +0200</pubDate>
       
-      <guid>https://sebastien-coze.ovh/projets/juste-prix/</guid>
+      <guid>https://sebastiencozedev.github.io/portfolio/projets/juste-prix/</guid>
       <description></description>
     </item>
     
