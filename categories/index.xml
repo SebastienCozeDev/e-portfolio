@@ -98,6 +98,24 @@
     </item>
     
     <item>
+      <title>Bash</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/bash/</link>
+      <pubDate>Sun, 30 Oct 2022 13:07:46 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/java/</link>
+      <pubDate>Sun, 30 Oct 2022 13:07:46 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PostgreSQL</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/postgresql/</link>
       <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
@@ -112,15 +130,6 @@
       <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
       
       <guid>https://sebastiencozedev.github.io/e-portfolio/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/java/</link>
-      <pubDate>Sun, 22 May 2022 17:48:40 +0200</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/java/</guid>
       <description></description>
     </item>
     
