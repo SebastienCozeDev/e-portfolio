@@ -6,11 +6,11 @@
     <description>Recent content in Categories on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 02 Nov 2022 09:06:32 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Nov 2022 09:36:22 +0100</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bulma</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/bulma/</link>
-      <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
+      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
       
       <guid>https://sebastiencozedev.github.io/e-portfolio/categories/bulma/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>Développement web</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</link>
-      <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
+      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
       
       <guid>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</guid>
       <description></description>
@@ -28,9 +28,45 @@
     <item>
       <title>Git</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/git/</link>
-      <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
+      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
       
       <guid>https://sebastiencozedev.github.io/e-portfolio/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laravel</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/laravel/</link>
+      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/laravel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/php/</link>
+      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projet d&#39;étude</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/projet-d%C3%A9tude/</link>
+      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/projet-d%C3%A9tude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQLite</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</link>
+      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</guid>
       <description></description>
     </item>
     
@@ -62,29 +98,11 @@
     </item>
     
     <item>
-      <title>PHP</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/php/</link>
-      <pubDate>Mon, 10 Oct 2022 09:06:32 +0200</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/php/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PostgreSQL</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/postgresql/</link>
       <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
       
       <guid>https://sebastiencozedev.github.io/e-portfolio/categories/postgresql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projet d&#39;étude</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/projet-d%C3%A9tude/</link>
-      <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/projet-d%C3%A9tude/</guid>
       <description></description>
     </item>
     
