@@ -375,3 +375,8 @@ a.tag {
     background-color: #346abf;
     color: white;
 }
+
+div#is-tags {
+    text-align: center;
+    line-height: 2em;
+}
