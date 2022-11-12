@@ -6,7 +6,16 @@
     <description>Recent content in Projet personnel on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 09 Nov 2022 22:17:54 +0100</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/projet-personnel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 12:35:56 +0100</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/projet-personnel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photo Library</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/projets/photo-library/</link>
+      <pubDate>Sat, 12 Nov 2022 12:35:56 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/projets/photo-library/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Todo List</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/projets/todo-list/</link>
