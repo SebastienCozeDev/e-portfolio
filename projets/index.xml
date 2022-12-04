@@ -6,7 +6,16 @@
     <description>Recent content in Projets on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 12 Nov 2022 12:35:56 +0100</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/projets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Dec 2022 17:22:54 +0100</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/projets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Cleaner</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/projets/computer-cleaner/</link>
+      <pubDate>Sun, 04 Dec 2022 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/projets/computer-cleaner/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Photo Library</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/projets/photo-library/</link>
