@@ -8,15 +8,6 @@
     <language>fr-fr</language>
     <lastBuildDate>Sun, 04 Dec 2022 17:22:54 +0100</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>.NET</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/.net/</link>
-      <pubDate>Sun, 04 Dec 2022 17:22:54 +0100</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/.net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>C-Sharp</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/c-sharp/</link>
       <pubDate>Sun, 04 Dec 2022 17:22:54 +0100</pubDate>
@@ -31,6 +22,15 @@
       <pubDate>Sun, 04 Dec 2022 17:22:54 +0100</pubDate>
       
       <guid>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-logiciel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dotNET</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/dotnet/</link>
+      <pubDate>Sun, 04 Dec 2022 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/dotnet/</guid>
       <description></description>
     </item>
     
