@@ -6,7 +6,88 @@
     <description>Recent content in Categories on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 04 Dec 2022 17:22:54 +0100</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 12:48:30 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/bootstrap/</link>
+      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/django/</link>
+      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/docker/</link>
+      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement web</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</link>
+      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/git/</link>
+      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/javascript/</link>
+      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projet professionnels</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/projet-professionnels/</link>
+      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/projet-professionnels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/python/</link>
+      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQLite</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</link>
+      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>C-Sharp</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/c-sharp/</link>
@@ -35,15 +116,6 @@
     </item>
     
     <item>
-      <title>Git</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/git/</link>
-      <pubDate>Sun, 04 Dec 2022 17:22:54 +0100</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projet personnel</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/projet-personnel/</link>
       <pubDate>Sun, 04 Dec 2022 17:22:54 +0100</pubDate>
@@ -62,38 +134,11 @@
     </item>
     
     <item>
-      <title>Bootstrap</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/bootstrap/</link>
-      <pubDate>Sat, 12 Nov 2022 12:35:56 +0100</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Développement web</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</link>
-      <pubDate>Sat, 12 Nov 2022 12:35:56 +0100</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Express.js</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/express.js/</link>
       <pubDate>Sat, 12 Nov 2022 12:35:56 +0100</pubDate>
       
       <guid>https://sebastiencozedev.github.io/e-portfolio/categories/express.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/javascript/</link>
-      <pubDate>Sat, 12 Nov 2022 12:35:56 +0100</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/javascript/</guid>
       <description></description>
     </item>
     
@@ -152,15 +197,6 @@
     </item>
     
     <item>
-      <title>SQLite</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</link>
-      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hugo</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/hugo/</link>
       <pubDate>Wed, 02 Nov 2022 09:06:32 +0200</pubDate>
@@ -193,15 +229,6 @@
       <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
       
       <guid>https://sebastiencozedev.github.io/e-portfolio/categories/postgresql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/python/</link>
-      <pubDate>Sat, 25 Jun 2022 20:22:51 +0200</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/python/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,16 @@
     <description>Recent content in Python on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 25 Jun 2022 20:22:51 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 12:48:30 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esup Pod</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/projets/esup-pod/</link>
+      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/projets/esup-pod/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Laboratoire de recherche</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/projets/laboratoire-de-recherche/</link>
