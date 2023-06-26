@@ -6,7 +6,88 @@
     <description>Recent content in Categories on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 21 Apr 2023 12:48:30 +0200</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2023 17:22:54 +0100</lastBuildDate><atom:link href="https://sebastiencozedev.github.io/e-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Angular</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/angular/</link>
+      <pubDate>Fri, 16 Jun 2023 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/docker/</link>
+      <pubDate>Fri, 16 Jun 2023 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement web</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</link>
+      <pubDate>Fri, 16 Jun 2023 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/git/</link>
+      <pubDate>Fri, 16 Jun 2023 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/javascript/</link>
+      <pubDate>Fri, 16 Jun 2023 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laravel</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/laravel/</link>
+      <pubDate>Fri, 16 Jun 2023 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/laravel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/php/</link>
+      <pubDate>Fri, 16 Jun 2023 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projet d&#39;étude</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/projet-d%C3%A9tude/</link>
+      <pubDate>Fri, 16 Jun 2023 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/projet-d%C3%A9tude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQLite</title>
+      <link>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</link>
+      <pubDate>Fri, 16 Jun 2023 17:22:54 +0100</pubDate>
+      
+      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Bootstrap</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/bootstrap/</link>
@@ -26,42 +107,6 @@
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/docker/</link>
-      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Développement web</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</link>
-      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Git</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/git/</link>
-      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/javascript/</link>
-      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projet professionnels</title>
       <link>https://sebastiencozedev.github.io/e-portfolio/categories/projet-professionnels/</link>
       <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
@@ -76,15 +121,6 @@
       <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
       
       <guid>https://sebastiencozedev.github.io/e-portfolio/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQLite</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</link>
-      <pubDate>Fri, 21 Apr 2023 12:48:30 +0200</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</guid>
       <description></description>
     </item>
     
@@ -166,33 +202,6 @@
       <pubDate>Wed, 09 Nov 2022 22:17:54 +0100</pubDate>
       
       <guid>https://sebastiencozedev.github.io/e-portfolio/categories/bulma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laravel</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/laravel/</link>
-      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/laravel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PHP</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/php/</link>
-      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/php/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projet d&#39;étude</title>
-      <link>https://sebastiencozedev.github.io/e-portfolio/categories/projet-d%C3%A9tude/</link>
-      <pubDate>Fri, 04 Nov 2022 09:36:22 +0100</pubDate>
-      
-      <guid>https://sebastiencozedev.github.io/e-portfolio/categories/projet-d%C3%A9tude/</guid>
       <description></description>
     </item>
     

@@ -1,3 +1,4 @@
-const element = document.getElementById('only-for-phone-hr');
-if (window.innerWidth > 1024)
-    element.remove();
+const onlyForPhoneElements = document.querySelectorAll('.only-for-phone-hr');
+for (let onlyForPhoneElement of onlyForPhoneElements) {
+    onlyForPhoneElement.remove();
+}

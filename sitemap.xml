@@ -2,43 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/bootstrap/</loc>
-    <lastmod>2023-04-21T12:48:30+02:00</lastmod>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/angular/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
   </url><url>
     <loc>https://sebastiencozedev.github.io/e-portfolio/categories/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/docker/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/git/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/javascript/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/laravel/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/projets/toy-library/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/php/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/projet-d%C3%A9tude/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/projets/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</loc>
+    <lastmod>2023-06-16T17:22:54+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/bootstrap/</loc>
     <lastmod>2023-04-21T12:48:30+02:00</lastmod>
   </url><url>
     <loc>https://sebastiencozedev.github.io/e-portfolio/categories/django/</loc>
     <lastmod>2023-04-21T12:48:30+02:00</lastmod>
   </url><url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/docker/</loc>
-    <lastmod>2023-04-21T12:48:30+02:00</lastmod>
-  </url><url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/d%C3%A9veloppement-web/</loc>
-    <lastmod>2023-04-21T12:48:30+02:00</lastmod>
-  </url><url>
     <loc>https://sebastiencozedev.github.io/e-portfolio/projets/esup-pod/</loc>
-    <lastmod>2023-04-21T12:48:30+02:00</lastmod>
-  </url><url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/git/</loc>
-    <lastmod>2023-04-21T12:48:30+02:00</lastmod>
-  </url><url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/javascript/</loc>
     <lastmod>2023-04-21T12:48:30+02:00</lastmod>
   </url><url>
     <loc>https://sebastiencozedev.github.io/e-portfolio/categories/projet-professionnels/</loc>
     <lastmod>2023-04-21T12:48:30+02:00</lastmod>
   </url><url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/projets/</loc>
-    <lastmod>2023-04-21T12:48:30+02:00</lastmod>
-  </url><url>
     <loc>https://sebastiencozedev.github.io/e-portfolio/categories/python/</loc>
-    <lastmod>2023-04-21T12:48:30+02:00</lastmod>
-  </url><url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/</loc>
-    <lastmod>2023-04-21T12:48:30+02:00</lastmod>
-  </url><url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/sqlite/</loc>
     <lastmod>2023-04-21T12:48:30+02:00</lastmod>
   </url><url>
     <loc>https://sebastiencozedev.github.io/e-portfolio/categories/c-sharp/</loc>
@@ -77,16 +92,7 @@
     <loc>https://sebastiencozedev.github.io/e-portfolio/projets/todo-list/</loc>
     <lastmod>2022-11-09T22:17:54+01:00</lastmod>
   </url><url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/laravel/</loc>
-    <lastmod>2022-11-04T09:36:22+01:00</lastmod>
-  </url><url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/php/</loc>
-    <lastmod>2022-11-04T09:36:22+01:00</lastmod>
-  </url><url>
     <loc>https://sebastiencozedev.github.io/e-portfolio/projets/pokemon-shop/</loc>
-    <lastmod>2022-11-04T09:36:22+01:00</lastmod>
-  </url><url>
-    <loc>https://sebastiencozedev.github.io/e-portfolio/categories/projet-d%C3%A9tude/</loc>
     <lastmod>2022-11-04T09:36:22+01:00</lastmod>
   </url><url>
     <loc>https://sebastiencozedev.github.io/e-portfolio/categories/hugo/</loc>
