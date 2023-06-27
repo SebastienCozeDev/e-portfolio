@@ -384,3 +384,19 @@ div#is-tags {
     text-align: center;
     line-height: 2em;
 }
+
+#scrollToTopButton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    transition: opacity .3s;
+    z-index: 99;
+}
+
+#scrollToTopButton.is-hidden {
+    opacity: 0;
+}
+
+#scrollToToButton:not(.is-hidden) {
+    opacity: 1;
+}
